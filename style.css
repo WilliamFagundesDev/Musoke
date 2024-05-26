@@ -1,0 +1,48 @@
+.card-Musicas {
+    width: fit-content; 
+    margin: 30px auto;
+}
+.buscar{
+    margin: 0 auto; 
+    float: none; 
+    padding: 20px;
+    width: 80%;
+}
+.botao{
+    margin-left: 20px;
+}
+.card{
+    height: 100%;
+}
+.navbar{
+    background-color: #52658d !important;
+}
+body{
+    background-color: #252E40;
+}
+.dropdown-menu{
+    --bs-dropdown-link-hover-bg:#003fbe !important;
+    --bs-dropdown-link-hover-color: white !important;
+}
+.navbar-nav{
+    --bs-nav-link-color: white !important;
+    --bs-nav-link-hover-color: #252E40 !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.none{
+    border: none;
+    background-color: #52658d;
+}
+#img{
+    border-radius: 999px;
+}
+
+@media only screen and (max-width: 580px) {
+    .card-Musicas {
+        width: fit-content; 
+        margin-top: 30px;
+    }
+  }
+  
